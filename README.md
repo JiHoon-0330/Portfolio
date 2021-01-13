@@ -5,7 +5,7 @@
 |              [Recipe App](https://github.com/JiHoon-0330/Portfolio/tree/master#recipe-app-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)              |                      [Recipe App](https://jihoon-recipe-app.netlify.app)                       |         [Recipe App](https://github.com/JiHoon-0330/recipe-app-recat)          |
 | [왓챠 클론](https://github.com/JiHoon-0330/Portfolio/tree/master#%EC%99%93%EC%B1%A0-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |                      [왓챠 클론](https://jihoon-watcha-clone.netlify.app)                      |         [왓챠 클론](https://github.com/JiHoon-0330/watcha-clone-react)         |
 |                     [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/Portfolio/tree/master#naver-alarm-extensions)                     | [네이버 확장앱 아!맞다](https://store.whale.naver.com/detail/dbiaodjlomkfimfdajcpdgefpplhbche) | [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/naver-alarm-extensions) |
-|                                     [Plus+](https://github.com/JiHoon-0330/Portfolio/tree/master#Plus+)                                      |                                               x                                                |           [Plus+](https://github.com/Jooney-95/gps-photomap-project)           |
+|                                      [Plus+](https://github.com/JiHoon-0330/Portfolio/tree/master#plus)                                      |                                               x                                                |           [Plus+](https://github.com/Jooney-95/gps-photomap-project)           |
 
 ## Recipe App 프로젝트
 
