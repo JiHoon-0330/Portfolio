@@ -1,11 +1,14 @@
 # 포트폴리오
 
-|                                                                섹션 바로가기                                                                 |                                             사이트                                             |                                     깃허브                                     |
-| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: |
-|              [Recipe App](https://github.com/JiHoon-0330/Portfolio/tree/master#recipe-app-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)              |                      [Recipe App](https://jihoon-recipe-app.netlify.app)                       |         [Recipe App](https://github.com/JiHoon-0330/recipe-app-recat)          |
-| [왓챠 클론](https://github.com/JiHoon-0330/Portfolio/tree/master#%EC%99%93%EC%B1%A0-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |                      [왓챠 클론](https://jihoon-watcha-clone.netlify.app)                      |         [왓챠 클론](https://github.com/JiHoon-0330/watcha-clone-react)         |
-|                     [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/Portfolio/tree/master#naver-alarm-extensions)                     | [네이버 확장앱 아!맞다](https://store.whale.naver.com/detail/dbiaodjlomkfimfdajcpdgefpplhbche) | [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/naver-alarm-extensions) |
-|                                      [Plus+](https://github.com/JiHoon-0330/Portfolio/tree/master#plus)                                      |                                               x                                                |           [Plus+](https://github.com/Jooney-95/gps-photomap-project)           |
+|                                                                섹션 바로가기                                                                 |                                             사이트                                             |                                     깃허브                                      |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+|              [Recipe App](https://github.com/JiHoon-0330/Portfolio/tree/master#recipe-app-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)              |                      [Recipe App](https://jihoon-recipe-app.netlify.app)                       |          [Recipe App](https://github.com/JiHoon-0330/recipe-app-recat)          |
+| [왓챠 클론](https://github.com/JiHoon-0330/Portfolio/tree/master#%EC%99%93%EC%B1%A0-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |                      [왓챠 클론](https://jihoon-watcha-clone.netlify.app)                      |         [왓챠 클론](https://github.com/JiHoon-0330/watcha-clone-react)          |
+|                     [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/Portfolio/tree/master#naver-alarm-extensions)                     | [네이버 확장앱 아!맞다](https://store.whale.naver.com/detail/dbiaodjlomkfimfdajcpdgefpplhbche) | [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/naver-alarm-extensions)  |
+|                                      [Plus+](https://github.com/JiHoon-0330/Portfolio/tree/master#plus)                                      |                                               x                                                |           [Plus+](https://github.com/Jooney-95/gps-photomap-project)            |
+|                    [10-project-html-css-js](https://github.com/JiHoon-0330/Portfolio/tree/master#10-project-html-css-js)                     |        [10-project-HTML-CSS-JS](https://github.com/JiHoon-0330/10-project-HTML-CSS-JS)         | [10-project-HTML-CSS-JS](https://github.com/JiHoon-0330/10-project-HTML-CSS-JS) |
+
+---
 
 ## Recipe App 프로젝트
 
@@ -233,3 +236,13 @@ TMDB에서 제공하는 API 사용
 ### 사용한 API
 
 - [구글맵 API](https://developers.google.com/maps/documentation/javascript/overview?_ga=2.129010508.1923459933.1610528938-1174175659.1598922139&_gac=1.53451098.1610528940.Cj0KCQiA0fr_BRDaARIsAABw4EuYUSvhWJ3IqNtlk2zsBFZVvvStR_H8toyke6ZbuGms-VhBoAtINokaAmfdEALw_wcB)
+
+---
+
+## 10-project-HTML-CSS-JS
+
+[10-project-HTML-CSS-JS](https://github.com/JiHoon-0330/10-project-HTML-CSS-JS)
+
+- 유튜브 10-project-HTML-CSS-JS에서 아이디어를 얻어 제작한 프로젝트
+- 디자인과 사용한 API를 참고했고, 영상에서 다루는 것 보다 세부적인 기능을 더 추가함
+- HTML / CSS / JS 만을 사용함
