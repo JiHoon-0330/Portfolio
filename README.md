@@ -1,10 +1,11 @@
 # 포트폴리오
 
 |                                                                섹션 바로가기                                                                 |                                             사이트                                             |                                     깃허브                                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | --- | ----------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 |              [Recipe App](https://github.com/JiHoon-0330/Portfolio/tree/master#recipe-app-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)              |                      [Recipe App](https://jihoon-recipe-app.netlify.app)                       |          [Recipe App](https://github.com/JiHoon-0330/recipe-app-recat)          |
 | [왓챠 클론](https://github.com/JiHoon-0330/Portfolio/tree/master#%EC%99%93%EC%B1%A0-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |                     [왓챠 클론](https://jihoon-watcha-clone.netlify.app/)                      |         [왓챠 클론](https://github.com/JiHoon-0330/watcha-clone-react)          |
-|                     [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/Portfolio/tree/master#naver-alarm-extensions)                     | [네이버 확장앱 아!맞다](https://store.whale.naver.com/detail/dbiaodjlomkfimfdajcpdgefpplhbche) | [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/naver-alarm-extensions)  |     | [타바타 타이머]() | [타바타 타이머](https://store.whale.naver.com/detail/bpmalncaengppkbpibppcgdcojdoafgo) | [타바타 타이머](https://github.com/JiHoon-0330/tabata-timer) |
+|                     [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/Portfolio/tree/master#naver-alarm-extensions)                     | [네이버 확장앱 아!맞다](https://store.whale.naver.com/detail/dbiaodjlomkfimfdajcpdgefpplhbche) | [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/naver-alarm-extensions)  |
+|              [타바타 타이머](https://github.com/JiHoon-0330/Portfolio#%ED%83%80%EB%B0%94%ED%83%80-%ED%83%80%EC%9D%B4%EB%A8%B8)               |     [타바타 타이머](https://store.whale.naver.com/detail/bpmalncaengppkbpibppcgdcojdoafgo)     |          [타바타 타이머](https://github.com/JiHoon-0330/tabata-timer)           |
 |                                      [Plus+](https://github.com/JiHoon-0330/Portfolio/tree/master#plus)                                      |                                               x                                                |           [Plus+](https://github.com/Jooney-95/gps-photomap-project)            |
 |                    [10-project-html-css-js](https://github.com/JiHoon-0330/Portfolio/tree/master#10-project-html-css-js)                     |        [10-project-HTML-CSS-JS](https://github.com/JiHoon-0330/10-project-HTML-CSS-JS)         | [10-project-HTML-CSS-JS](https://github.com/JiHoon-0330/10-project-HTML-CSS-JS) |
 
@@ -62,7 +63,7 @@ TheMealDB 에서 제공하는 API 사용
 
 ### 리액트 훅을 사용해 제작
 
-- [사이트 바로가기 ](https://jihoon-0330.github.io/watch-clone-react)
+- [사이트 바로가기 ](https://jihoon-watcha-clone.netlify.app/)
 - [깃허브 바로가기 ](https://github.com/JiHoon-0330/watcha-clone-react)
 
 ### 메인화면
