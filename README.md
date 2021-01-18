@@ -1,10 +1,10 @@
 # 포트폴리오
 
 |                                                                섹션 바로가기                                                                 |                                             사이트                                             |                                     깃허브                                      |
-| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+| :------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | --- | ----------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
 |              [Recipe App](https://github.com/JiHoon-0330/Portfolio/tree/master#recipe-app-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)              |                      [Recipe App](https://jihoon-recipe-app.netlify.app)                       |          [Recipe App](https://github.com/JiHoon-0330/recipe-app-recat)          |
-| [왓챠 클론](https://github.com/JiHoon-0330/Portfolio/tree/master#%EC%99%93%EC%B1%A0-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |                      [왓챠 클론](https://jihoon-watcha-clone.netlify.app)                      |         [왓챠 클론](https://github.com/JiHoon-0330/watcha-clone-react)          |
-|                     [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/Portfolio/tree/master#naver-alarm-extensions)                     | [네이버 확장앱 아!맞다](https://store.whale.naver.com/detail/dbiaodjlomkfimfdajcpdgefpplhbche) | [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/naver-alarm-extensions)  |
+| [왓챠 클론](https://github.com/JiHoon-0330/Portfolio/tree/master#%EC%99%93%EC%B1%A0-%ED%81%B4%EB%A1%A0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8) |                     [왓챠 클론](https://jihoon-watcha-clone.netlify.app/)                      |         [왓챠 클론](https://github.com/JiHoon-0330/watcha-clone-react)          |
+|                     [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/Portfolio/tree/master#naver-alarm-extensions)                     | [네이버 확장앱 아!맞다](https://store.whale.naver.com/detail/dbiaodjlomkfimfdajcpdgefpplhbche) | [네이버 확장앱 아!맞다](https://github.com/JiHoon-0330/naver-alarm-extensions)  |     | [타바타 타이머]() | [타바타 타이머](https://store.whale.naver.com/detail/bpmalncaengppkbpibppcgdcojdoafgo) | [타바타 타이머](https://github.com/JiHoon-0330/tabata-timer) |
 |                                      [Plus+](https://github.com/JiHoon-0330/Portfolio/tree/master#plus)                                      |                                               x                                                |           [Plus+](https://github.com/Jooney-95/gps-photomap-project)            |
 |                    [10-project-html-css-js](https://github.com/JiHoon-0330/Portfolio/tree/master#10-project-html-css-js)                     |        [10-project-HTML-CSS-JS](https://github.com/JiHoon-0330/10-project-HTML-CSS-JS)         | [10-project-HTML-CSS-JS](https://github.com/JiHoon-0330/10-project-HTML-CSS-JS) |
 
@@ -149,6 +149,36 @@ TMDB에서 제공하는 API 사용
 - [chrome.alarms](https://developer.chrome.com/docs/extensions/reference/alarms)
 - [chrome.storage](https://developer.chrome.com/docs/extensions/reference/storage)
 - [chrome.tabs](https://developer.chrome.com/docs/extensions/reference/tabs)
+
+---
+
+## 타바타 타이머
+
+[확장앱 다운로드 링크](https://store.whale.naver.com/detail/bpmalncaengppkbpibppcgdcojdoafgo)
+
+### 운동시간, 휴식시간, 세트 수를 설정해 사용할 수 있는 타바타 타이머
+
+### 다양한 루틴을 등록하고 그때 그때 알맞은 루틴을 사용해 보세요
+
+---
+
+### 화면 소개
+
+![등록](https://user-images.githubusercontent.com/58219394/104887171-3303ca00-59ae-11eb-8ec9-2eb00793af76.png)
+![메인](https://user-images.githubusercontent.com/58219394/104887175-3434f700-59ae-11eb-8ad9-635e4d6e832d.png)
+![실행](https://user-images.githubusercontent.com/58219394/104887176-34cd8d80-59ae-11eb-9749-5c7414d0034d.jpg)
+
+---
+
+### 개발언어
+
+#### HTML / CSS / JS
+
+---
+
+## 사용한 API
+
+- [chrome.storage](https://developer.chrome.com/docs/extensions/reference/storage/)
 
 ---
 
