@@ -194,6 +194,10 @@ TMDB에서 제공하는 API 사용
 - 이미지를 촬영시간 순으로 자동 정렬해줍니다.
 - 촬영 장소를 지도에 마커를 이용해 표시하고 주소를 알려줍니다.
 
+### [발표영상](https://www.youtube.com/watch?v=Et2R3yVC79o)
+
+### [논문](https://url.kr/xeNRpo)
+
 ### 메인화면
 
 ![main](https://user-images.githubusercontent.com/58219394/104428416-cfe9f000-55c7-11eb-841e-6a1fd8e14c7f.png)
